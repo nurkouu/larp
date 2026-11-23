@@ -11,7 +11,7 @@ Ce site présente la faisabilité d'un *concept d'expérience multimédia* prés
 
 ## Résumé du projet
 
-Trois joueurs collaborent pour devenir le match parfait de quelqu'un qu'ils ne connaissent pas dans une expérience à multiples médiums (Video interactive, vr, arcade, touchscreen). Un simulateur de rencontre dont le but est de trouver en 2 mins l'information qui va être le plus apprécié par son date. Un cherche et trouve dans un environnement 3D, des puzzles dérangeant et des minis-jeux ludiques se trouveront dans le chemin des joueurs, sont-ils capable de plaire à leurs date? À quel point sont-ils prêt a mettre de l'effort pour refléter la personnalité de leur date plutôt que de simplement être eux-mêmes? 
+Deux joueurs collaborent pour devenir le match parfait de quelqu'un qu'ils ne connaissent pas dans une expérience à multiples médiums (Video interactive, vr, tactile, touchscreen). Un simulateur de rencontre dont le but est de trouver en 2 mins l'information qui va être le plus apprécié par son date. Un cherche et trouve dans un environnement 3D, des puzzles dérangeant et des minis-jeux ludiques se trouveront dans le chemin des joueurs, sont-ils capable de plaire à leurs date? À quel point sont-ils prêt a mettre de l'effort pour refléter la personnalité de leur date plutôt que de simplement être eux-mêmes? 
 
 
 ## Le parcours de l'interacteur
@@ -30,8 +30,8 @@ un résumé du parcours de l'interacteur du début à la fin de son expérience 
 
 ## Comment le projet s'adapte pour un à plusieurs interacteurs
 
-Le projet s'adapte pour un à plusieurs intéracteurs en demandant une collaboration pour trouver les bonnes réponses ensemble.
+Le projet s'adapte pour un à plusieurs intéracteurs en demandant au joeurs de se partager les défis et communiquer leur découverte pour obtenir le meilleur résultat possible.
 
 ## Pourquoi ce projet est original ?
 
-
+Il est original puisque les joueurs doivent modifier leurs choix pour correspondre aux goûts d'une personne inconnue même si ça ne corresponds pas nécessairement à ses propres goûts.
