@@ -35,3 +35,9 @@ Le projet s'adapte pour un à plusieurs intéracteurs en demandant au joeurs de 
 ## Pourquoi ce projet est original ?
 
 Il est original puisque les joueurs doivent modifier leurs choix pour correspondre aux goûts d'une personne inconnue même si ça ne corresponds pas nécessairement à ses propres goûts.
+
+
+
+- players enter the installation and they will see a pancarte that will contextualise the game.
+- with the panneau, the player will press play and the date will begin.
+- the npc girl will appear and start 
