@@ -1,3 +1,8 @@
+l'interface utilisateur: faire des maquettes (figma)
+
+l´univers: effets visuels et sonores
+
+
 # Scénario
 
 Cette section présente le scénario de l’interactivité du projet.
