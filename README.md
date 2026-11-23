@@ -16,25 +16,17 @@ Deux joueurs collaborent pour devenir le match parfait de quelqu'un qu'ils ne co
 
 ## Le parcours de l'interacteur
 
-Lorsqu’ils entrent dans la salle, les joueurs découvrent une installation interactive composée d’un écran principal, d’un espace de réalité virtuelle (VR) et d’un jeu tactile.
-
-Sur l’écran principal, ils aperçoivent le titre du jeu ainsi que le personnage de leur date virtuelle (NPC). Un bouton « Play » leur permet de démarrer l’expérience.
-
-Une fois le bouton appuyé, le personnage se présente et explique brièvement leur mission : devenir son match parfait en découvrant ses goûts, ses intérêts et sa personnalité en seulement deux minutes.
-
+Lorsqu’ils entrent dans la salle, les joueurs découvrent une installation interactive composée d’un écran principal, d’un espace de réalité virtuelle (VR) et d’un jeu tactile. Sur l’écran principal, ils aperçoivent le titre du jeu ainsi que le personnage de leur date virtuelle (NPC). Un bouton « Play » leur permet de démarrer l’expérience. Une fois le bouton appuyé, le personnage se présente et explique brièvement leur mission : devenir son match parfait en découvrant ses goûts, ses intérêts et sa personnalité en seulement deux minutes.
 
 Après l’introduction, la date virtuelle commence à poser des questions aux joueurs. Plusieurs choix de réponses apparaissent à l’écran, mais les joueurs ne connaissent pas nécessairement les bonnes réponses.
-
 Pour trouver les informations nécessaires, ils doivent se déplacer entre deux stations interactives :
 
 * La réalité virtuelle (VR) : un joueur enfile un casque VR et explore un environnement 3D dans lequel il doit chercher et trouver des objets qui révèlent des indices sur les préférences de la date.
 * Le jeu tactile : l’autre joueur interagit avec un mini-jeu sur un écran tactile afin de résoudre une énigme et découvrir d’autres informations.
 
-Les deux joueurs doivent communiquer leurs découvertes et utiliser les indices récoltés pour sélectionner les réponses qui correspondent le mieux à la personnalité de leur date.
+Les deux joueurs doivent communiquer leurs découvertes et utiliser les indices récoltés pour sélectionner les réponses qui correspondent le mieux à la personnalité de leur date. Après les deux minutes, l’expérience se termine et un pourcentage de compatibilité apparaît sur l’écran principal pour montrer leur résultat.
 
-Après les deux minutes, l’expérience se termine et un pourcentage de compatibilité apparaît sur l’écran principal pour montrer leur résultat.
-
-3. Les contrôles et les interactions
+## Les contrôles et les interactions
 
 Les contrôles sont répartis entre les différentes parties de l’installation.
 
