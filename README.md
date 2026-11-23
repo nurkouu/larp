@@ -16,17 +16,38 @@ Deux joueurs collaborent pour devenir le match parfait de quelqu'un qu'ils ne co
 
 ## Le parcours de l'interacteur
 
-Au début de l'expérience, deux joueurs se présentent devant une installation interactive où ils découvrent leur mission : devenir le match parfait d'une personne qu'ils ne connaissent pas. Les joueurs disposent de seulement deux minutes pour découvrir ses goûts, ses intérêts et sa personnalité.
+Le parcours de l’interacteur
 
-Les deux joueurs devront interagir avec un médium différent : la réalité virtuelle (VR) et un jeu tactile. Ils doivent collaborer et communiquer entre eux pour récolter le plus d'informations possible.
+1. Onboarding – L’arrivée des joueurs
 
-Pendant l'expérience, les joueurs vont être posés des questions et doivent utiliser les indices récoltées pour faire des choix qui correspondent aux préférences de leur date. Finalement, un résultat apparaît à l'écran pour montrer leur pourcentage de compatibilité. 
+Lorsqu’ils entrent dans la salle, les joueurs découvrent une installation interactive composée d’un écran principal, d’un espace de réalité virtuelle (VR) et d’un jeu tactile.
 
-<!-- 
-Comportement de l’interacteur
-Qu'est-ce que fait l'interacteur?
-un résumé du parcours de l'interacteur du début à la fin de son expérience - qu'est-ce qu'il fait, qu'est-ce qu'il manipule, etc
--->
+Sur l’écran principal, ils aperçoivent le titre du jeu ainsi que le personnage de leur date virtuelle (NPC). Un bouton « Play » leur permet de démarrer l’expérience.
+
+Une fois le bouton appuyé, le personnage se présente et explique brièvement leur mission : devenir son match parfait en découvrant ses goûts, ses intérêts et sa personnalité en seulement deux minutes.
+
+2. L’expérience interactive
+
+Après l’introduction, la date virtuelle commence à poser des questions aux joueurs. Plusieurs choix de réponses apparaissent à l’écran, mais les joueurs ne connaissent pas nécessairement les bonnes réponses.
+
+Pour trouver les informations nécessaires, ils doivent se déplacer entre deux stations interactives :
+
+* La réalité virtuelle (VR) : un joueur enfile un casque VR et explore un environnement 3D dans lequel il doit chercher et trouver des objets qui révèlent des indices sur les préférences de la date.
+* Le jeu tactile : l’autre joueur interagit avec un mini-jeu sur un écran tactile afin de résoudre une énigme et découvrir d’autres informations.
+
+Les deux joueurs doivent communiquer leurs découvertes et utiliser les indices récoltés pour sélectionner les réponses qui correspondent le mieux à la personnalité de leur date.
+
+Après les deux minutes, l’expérience se termine et un pourcentage de compatibilité apparaît sur l’écran principal pour montrer leur résultat.
+
+3. Les contrôles et les interactions
+
+Les contrôles sont répartis entre les différentes parties de l’installation.
+
+* Écran principal : situé devant les joueurs à leur arrivée. Il permet de démarrer l’expérience avec le bouton « Play », de lire les questions et de sélectionner les réponses proposées.
+* Station VR : située dans un espace réservé à la réalité virtuelle. Le joueur utilise un casque VR et des manettes pour regarder autour de lui, explorer l’environnement et interagir avec les objets.
+* Station tactile : située à proximité de l’espace VR. Le joueur utilise directement ses doigts sur l’écran tactile pour manipuler les éléments du mini-jeu et résoudre l’énigme.
+
+Les joueurs doivent donc alterner entre l’observation, la manipulation des différents contrôles et la communication pour réussir l’expérience ensemble.
 
 ## Comment le projet s'adapte pour un à plusieurs interacteurs
 
