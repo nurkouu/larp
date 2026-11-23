@@ -16,17 +16,12 @@ Deux joueurs collaborent pour devenir le match parfait de quelqu'un qu'ils ne co
 
 ## Le parcours de l'interacteur
 
-Le parcours de l’interacteur
-
-1. Onboarding – L’arrivée des joueurs
-
 Lorsqu’ils entrent dans la salle, les joueurs découvrent une installation interactive composée d’un écran principal, d’un espace de réalité virtuelle (VR) et d’un jeu tactile.
 
 Sur l’écran principal, ils aperçoivent le titre du jeu ainsi que le personnage de leur date virtuelle (NPC). Un bouton « Play » leur permet de démarrer l’expérience.
 
 Une fois le bouton appuyé, le personnage se présente et explique brièvement leur mission : devenir son match parfait en découvrant ses goûts, ses intérêts et sa personnalité en seulement deux minutes.
 
-2. L’expérience interactive
 
 Après l’introduction, la date virtuelle commence à poser des questions aux joueurs. Plusieurs choix de réponses apparaissent à l’écran, mais les joueurs ne connaissent pas nécessairement les bonnes réponses.
 
