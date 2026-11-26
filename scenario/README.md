@@ -26,7 +26,51 @@ Le scénarimage doit inclure des annotations ou des visuels montrant les répons
 -->
 
 
-## Scène #ID : Nom de scène
+## Scène #1 : Nom de scène
+
+![](https://placehold.co/600x400?text=Sc%C3%A9narimage)
+
+**Ce que l’interacteur voit :**
+- ...
+
+**Ce que l’interacteur entend :**
+- ...
+
+### Tableau des automatisations
+| Déclenchement | Effet visuel | Effet sonore | Effet interactif |
+| -- | -- | -- | -- |
+|     |     |     |     |
+
+### Tableau des actions
+| Verbe d’action | Condition / contexte | Effet visuel | Effet sonore | Effet interactif |
+| -- | -- | -- | -- | -- |
+|     |     |     |     |     |
+
+
+
+## Scène #2 : Nom de scène
+
+![](https://placehold.co/600x400?text=Sc%C3%A9narimage)
+
+**Ce que l’interacteur voit :**
+- ...
+
+**Ce que l’interacteur entend :**
+- ...
+
+### Tableau des automatisations
+| Déclenchement | Effet visuel | Effet sonore | Effet interactif |
+| -- | -- | -- | -- |
+|     |     |     |     |
+
+### Tableau des actions
+| Verbe d’action | Condition / contexte | Effet visuel | Effet sonore | Effet interactif |
+| -- | -- | -- | -- | -- |
+|     |     |     |     |     |
+
+
+
+## Scène #3 : Nom de scène
 
 ![](https://placehold.co/600x400?text=Sc%C3%A9narimage)
 
