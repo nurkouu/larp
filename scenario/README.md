@@ -26,32 +26,37 @@ Le scénarimage doit inclure des annotations ou des visuels montrant les répons
 -->
 
 
-## Scène #1 : Nom de scène
+## Scène #1 : Accueil et présentation de la date virtuelle
 
 ![](https://placehold.co/600x400?text=Sc%C3%A9narimage)
 
 **Ce que l’interacteur voit :**
-- ...
+- Le titre du jeu « L.a.r.p. »
+- Le personnage de la date virtuelle (NPC) sur l’écran principal
+- Un bouton « Play » permettant de démarrer l’expérience
+- Les instructions expliquant le déroulement du jeu
+- Les deux stations interactives (VR et jeu tactile)
 
 **Ce que l’interacteur entend :**
-- ...
+- Une musique d’ambiance
+- La voix du personnage (NARRATEUR FICTIF) qui accueille les joueurs et explique leur mission
+- Des effets sonores lors des interactions avec les boutons
 
 ### Tableau des automatisations
 | Déclenchement | Effet visuel | Effet sonore | Effet interactif |
-| -- | -- | -- | -- |
-|     |     |     |     |
+| Démarrage de l’installation | Apparition du titre, du NPC et du bouton « Play » | Musique d’ambiance | Le bouton « Play » devient accessible |
+|  Le bouton « Play » devient accessible   |  Animation du NPC et affichage des instructions   |  Voix du NPC  |  Les joueurs découvrent leur mission  |
+|  Fin de la présentation   |  Apparition de la première question et du chronomètre   |  Son de début de partie  |  Activation des stations interactives et passage à la scène 2  |
 
 ### Tableau des actions
 | Verbe d’action | Condition / contexte | Effet visuel | Effet sonore | Effet interactif |
-| Entrer | -- | -- | -- | -- |
-| Appuie |     |     |     |     |
-| Appuie |     |     |     |     |
-| Appuie |     |     |     |     |
-| Appuie |     |     |     |     |
+| Entrer | Les joueurs entrent dans la salle | Aucun | Aucun | Accès à l’installation |
+| Observer |  Les joueurs regardent l’écran principal   |  Aucun   |  Aucun  |  Découverte de l’interface   |
+| Appuyer |  Un joueur appuie sur le bouton « Play »   |  Disparition du bouton et animation du NPC   |  Son de confirmation   |  Démarrage de l’expérience    |
 
 
 
-## Scène #2 : Nom de scène
+## Scène #2 : Recherche d’indices et questionnaire
 
 ![](https://placehold.co/600x400?text=Sc%C3%A9narimage)
 
@@ -73,7 +78,7 @@ Le scénarimage doit inclure des annotations ou des visuels montrant les répons
 
 
 
-## Scène #3 : Nom de scène
+## Scène #3 : Résultat de compatibilité
 
 ![](https://placehold.co/600x400?text=Sc%C3%A9narimage)
 
