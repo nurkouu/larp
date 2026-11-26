@@ -44,12 +44,15 @@ Le scénarimage doit inclure des annotations ou des visuels montrant les répons
 
 ### Tableau des automatisations
 | Déclenchement | Effet visuel | Effet sonore | Effet interactif |
+| --- | --- | --- | --- |
 | Démarrage de l’installation | Apparition du titre, du NPC et du bouton « Play » | Musique d’ambiance | Le bouton « Play » devient accessible |
 |  Le bouton « Play » devient accessible   |  Animation du NPC et affichage des instructions   |  Voix du NPC  |  Les joueurs découvrent leur mission  |
 |  Fin de la présentation   |  Apparition de la première question et du chronomètre   |  Son de début de partie  |  Activation des stations interactives et passage à la scène 2  |
 
+
 ### Tableau des actions
 | Verbe d’action | Condition / contexte | Effet visuel | Effet sonore | Effet interactif |
+| --- | --- | --- | --- |
 | Entrer | Les joueurs entrent dans la salle | Aucun | Aucun | Accès à l’installation |
 | Observer |  Les joueurs regardent l’écran principal   |  Aucun   |  Aucun  |  Découverte de l’interface   |
 | Appuyer |  Un joueur appuie sur le bouton « Play »   |  Disparition du bouton et animation du NPC   |  Son de confirmation   |  Démarrage de l’expérience    |
